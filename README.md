@@ -7,8 +7,8 @@ UI design for a job portal including job browsing, job details, and application 
 ### Job Listings
 ![Job Listings](job_listings.png)
 
-### Job Details
-![Job Details](job_details.png)
+### Job Description
+![Job Description](job_description.png)
 
 ### Application
 ![Application](application.png)
